@@ -1,0 +1,92 @@
+.form-container {
+    max-width: 400px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .btn-signup-signin {
+    width: 100%;
+  }
+
+  .review-container {
+    max-width: 800px;
+    margin: auto;
+    width: 96%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.review-section {
+    margin-bottom: 30px;
+}
+
+.review-form {
+    margin-top: 15px;
+}
+
+.btn-review {
+    width: 100%;
+}
+
+.assign-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-assign {
+    width: 100%;
+}
+
+.employee-list-item {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.btn-action {
+    white-space: nowrap;
+}
+
+.received-review .assigned-review{
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.review-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.review-from {
+    font-weight: bold;
+}
+
+.review-date {
+    color: #777;
+}
+
+.review-header {
+    margin-bottom: 10px;
+}
+
+.review-to {
+    font-weight: bold;
+}
+
+.review-form {
+    margin-bottom: 0;
+}
